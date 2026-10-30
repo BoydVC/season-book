@@ -1,0 +1,1229 @@
+{
+ "threads": [
+  {
+   "id": "1a10d0238cff94f5",
+   "messages": [
+    {
+     "id": "1a10d0238cff94f5",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-10-05T17:00:09Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a10d0238cff94f5",
+     "historyId": "10358822",
+     "internalDate": "1791219609000",
+     "sizeEstimate": 105029
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a108ba3a49869d4",
+   "messages": [
+    {
+     "id": "1a108ba3a49869d4",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-10-04T21:03:03Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a108ba3a49869d4",
+     "historyId": "10358789",
+     "internalDate": "1791147783000",
+     "sizeEstimate": 89118
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a10761209f055c4",
+   "messages": [
+    {
+     "id": "1a10761209f055c4",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-10-04T14:46:07Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a10761209f055c4",
+     "historyId": "10358783",
+     "internalDate": "1791125167000",
+     "sizeEstimate": 98168
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0ebff0bf9d4714",
+   "messages": [
+    {
+     "id": "1a0ebff0bf9d4714",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-29T07:09:10Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a0ebff0bf9d4714",
+     "historyId": "10348665",
+     "internalDate": "1790665750000",
+     "sizeEstimate": 22293
+    },
+    {
+     "id": "1a0ed5dc8bbc2801",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-29T13:32:21Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a0ebff0bf9d4714",
+     "historyId": "10348665",
+     "internalDate": "1790688741000",
+     "sizeEstimate": 20834
+    }
+   ],
+   "messageCount": 2
+  },
+  {
+   "id": "1a0d47a2946b122a",
+   "messages": [
+    {
+     "id": "1a0d47a2946b122a",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-24T17:32:49Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a0d47a2946b122a",
+     "historyId": "10348509",
+     "internalDate": "1790271169000",
+     "sizeEstimate": 55399
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0d40ebf377ecb4",
+   "messages": [
+    {
+     "id": "1a0d40ebf377ecb4",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-24T15:35:30Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a0d40ebf377ecb4",
+     "historyId": "10348503",
+     "internalDate": "1790264130000",
+     "sizeEstimate": 16268
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0c4eeceb047a45",
+   "messages": [
+    {
+     "id": "1a0c4eeceb047a45",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-21T17:06:19Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a0c4eeceb047a45",
+     "historyId": "10340336",
+     "internalDate": "1790010379000",
+     "sizeEstimate": 115804
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0c464644eb8c45",
+   "messages": [
+    {
+     "id": "1a0c464644eb8c45",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-21T14:35:08Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a0c464644eb8c45",
+     "historyId": "10340325",
+     "internalDate": "1790001308000",
+     "sizeEstimate": 23180
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0b63ca2bba1145",
+   "messages": [
+    {
+     "id": "1a0b63ca2bba1145",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-18T20:36:57Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a0b63ca2bba1145",
+     "historyId": "10338909",
+     "internalDate": "1789763817000",
+     "sizeEstimate": 55180
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0a10ec7e28f373",
+   "messages": [
+    {
+     "id": "1a0a10ec7e28f373",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-14T17:54:54Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a0a10ec7e28f373",
+     "historyId": "10327819",
+     "internalDate": "1789408494000",
+     "sizeEstimate": 23170
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a09b4ef35d467f7",
+   "messages": [
+    {
+     "id": "1a09b4ef35d467f7",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-13T15:07:16Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a09b4ef35d467f7",
+     "historyId": "10327640",
+     "internalDate": "1789312036000",
+     "sizeEstimate": 87137
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a08cb97ac77330f",
+   "messages": [
+    {
+     "id": "1a08cb97ac77330f",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-10T19:09:20Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a08cb97ac77330f",
+     "historyId": "10320627",
+     "internalDate": "1789067360000",
+     "sizeEstimate": 61235
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a08b87e189f1df5",
+   "messages": [
+    {
+     "id": "1a08b87e189f1df5",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-10T13:35:32Z",
+     "labelIds": [
+      "UNREAD",
+      "INBOX"
+     ],
+     "threadId": "1a08b87e189f1df5",
+     "historyId": "10319507",
+     "internalDate": "1789047332000",
+     "sizeEstimate": 37519
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0881f9af388d4f",
+   "messages": [
+    {
+     "id": "1a0881f9af388d4f",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-09T21:04:24Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a0881f9af388d4f",
+     "historyId": "10319286",
+     "internalDate": "1788987864000",
+     "sizeEstimate": 60493
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a082a8b2d5fcb87",
+   "messages": [
+    {
+     "id": "1a082a8b2d5fcb87",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-08T20:14:30Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a082a8b2d5fcb87",
+     "historyId": "10317471",
+     "internalDate": "1788898470000",
+     "sizeEstimate": 53800
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a06800c0e86a42c",
+   "messages": [
+    {
+     "id": "1a06800c0e86a42c",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-03T16:01:14Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a06800c0e86a42c",
+     "historyId": "10307664",
+     "internalDate": "1788451274000",
+     "sizeEstimate": 34576
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a05de6e2c5a97eb",
+   "messages": [
+    {
+     "id": "1a05de6e2c5a97eb",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-01T16:56:47Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a05de6e2c5a97eb",
+     "historyId": "10306560",
+     "internalDate": "1788281807000",
+     "sizeEstimate": 24523
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0548483e452798",
+   "messages": [
+    {
+     "id": "1a0548483e452798",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-30T21:12:44Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a0548483e452798",
+     "historyId": "10302699",
+     "internalDate": "1788124364000",
+     "sizeEstimate": 17953
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03fb758d499c63",
+   "messages": [
+    {
+     "id": "1a03fb758d499c63",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T20:16:13Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03fb758d499c63",
+     "historyId": "10297222",
+     "internalDate": "1787775373000",
+     "sizeEstimate": 77472
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03be65f142f88f",
+   "messages": [
+    {
+     "id": "1a03be6ef61a14f6",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.b@example.com"
+     ],
+     "date": "2026-08-26T02:29:45Z",
+     "labelIds": [
+      "SENT"
+     ],
+     "threadId": "1a03be65f142f88f",
+     "historyId": "10337074",
+     "internalDate": "1787711385000",
+     "sizeEstimate": 17075
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03bd2e0dfe9b87",
+   "messages": [
+    {
+     "id": "1a03bd2e0dfe9b87",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T02:07:34Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a03bd2e0dfe9b87",
+     "historyId": "10295192",
+     "internalDate": "1787710054000",
+     "sizeEstimate": 8143
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a033c9ab4a259db",
+   "messages": [
+    {
+     "id": "1a033c9ab4a259db",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-24T12:40:48Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a033c9ab4a259db",
+     "historyId": "10288909",
+     "internalDate": "1787575248000",
+     "sizeEstimate": 22026
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a02c602f8e1fbb5",
+   "messages": [
+    {
+     "id": "1a02c602f8e1fbb5",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-23T02:08:15Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a02c602f8e1fbb5",
+     "historyId": "10288879",
+     "internalDate": "1787450895000",
+     "sizeEstimate": 57518
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a02b58bbe275777",
+   "messages": [
+    {
+     "id": "1a02b58bbe275777",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-22T21:20:29Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a02b58bbe275777",
+     "historyId": "10301548",
+     "internalDate": "1787433629000",
+     "sizeEstimate": 39057
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a02b58b88c93431",
+   "messages": [
+    {
+     "id": "1a02b58b88c93431",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-22T21:20:29Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a02b58b88c93431",
+     "historyId": "10301546",
+     "internalDate": "1787433629000",
+     "sizeEstimate": 42395
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a02abdbbbadd992",
+   "messages": [
+    {
+     "id": "1a02abdbbbadd992",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-22T18:31:06Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a02abdbbbadd992",
+     "historyId": "10288861",
+     "internalDate": "1787423466000",
+     "sizeEstimate": 54829
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a01a9c190374710",
+   "messages": [
+    {
+     "id": "1a01a9c190374710",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-19T15:20:32Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a01a9c190374710",
+     "historyId": "10279700",
+     "internalDate": "1787152832000",
+     "sizeEstimate": 28657
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0012893064a5f4",
+   "messages": [
+    {
+     "id": "1a0012893064a5f4",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-14T16:43:49Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a0012893064a5f4",
+     "historyId": "10272809",
+     "internalDate": "1786725829000",
+     "sizeEstimate": 58899
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19ffc4a176c76775",
+   "messages": [
+    {
+     "id": "19ffc4a176c76775",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-13T18:02:21Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19ffc4a176c76775",
+     "historyId": "10271556",
+     "internalDate": "1786644141000",
+     "sizeEstimate": 41806
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19ffb45d7d81c1c3",
+   "messages": [
+    {
+     "id": "19ffb45d7d81c1c3",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-13T13:18:05Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19ffb45d7d81c1c3",
+     "historyId": "10269619",
+     "internalDate": "1786627085000",
+     "sizeEstimate": 54073
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19ff74c8f7210983",
+   "messages": [
+    {
+     "id": "19ff74c8f7210983",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-12T18:46:57Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19ff74c8f7210983",
+     "historyId": "10269607",
+     "internalDate": "1786560417000",
+     "sizeEstimate": 182393
+    },
+    {
+     "id": "19ff74cbb6e83d06",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-12T18:47:08Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19ff74c8f7210983",
+     "historyId": "10269607",
+     "internalDate": "1786560428000",
+     "sizeEstimate": 160700
+    }
+   ],
+   "messageCount": 2
+  },
+  {
+   "id": "19ff6891af1257a1",
+   "messages": [
+    {
+     "id": "19ff6891af1257a1",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-12T15:04:21Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19ff6891af1257a1",
+     "historyId": "10270616",
+     "internalDate": "1786547061000",
+     "sizeEstimate": 108166
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19ff4ff788714bc4",
+   "messages": [
+    {
+     "id": "19ff4ff788714bc4",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-12T08:03:30Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19ff4ff788714bc4",
+     "historyId": "10270615",
+     "internalDate": "1786521810000",
+     "sizeEstimate": 158354
+    },
+    {
+     "id": "19ff554d1e26c40c",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-12T09:36:43Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19ff4ff788714bc4",
+     "historyId": "10270615",
+     "internalDate": "1786527403000",
+     "sizeEstimate": 158356
+    }
+   ],
+   "messageCount": 2
+  },
+  {
+   "id": "19fedebe38d82527",
+   "messages": [
+    {
+     "id": "19fedebe38d82527",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-10T23:04:46Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19fedebe38d82527",
+     "historyId": "10268753",
+     "internalDate": "1786403086000",
+     "sizeEstimate": 155478
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fe7f1ddbf8e07a",
+   "messages": [
+    {
+     "id": "19fe7f1ddbf8e07a",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-09T19:13:34Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19fe7f1ddbf8e07a",
+     "historyId": "10268751",
+     "internalDate": "1786302814000",
+     "sizeEstimate": 133958
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fe7a1adb01fe56",
+   "messages": [
+    {
+     "id": "19fe7a1adb01fe56",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-09T17:45:59Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fe7a1adb01fe56",
+     "historyId": "10300104",
+     "internalDate": "1786297559000",
+     "sizeEstimate": 28739
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fe42cf7fcc3bf5",
+   "messages": [
+    {
+     "id": "19fe42cf7fcc3bf5",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-09T01:39:37Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19fe42cf7fcc3bf5",
+     "historyId": "10268746",
+     "internalDate": "1786239577000",
+     "sizeEstimate": 91308
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fdf5d00a5f6327",
+   "messages": [
+    {
+     "id": "19fdf5d00a5f6327",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-08T03:14:01Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fdf5d00a5f6327",
+     "historyId": "10242417",
+     "internalDate": "1786158841000",
+     "sizeEstimate": 71763
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fdd74749e5b7b6",
+   "messages": [
+    {
+     "id": "19fdd74749e5b7b6",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-07T18:20:22Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19fdd74749e5b7b6",
+     "historyId": "10240840",
+     "internalDate": "1786126822000",
+     "sizeEstimate": 52321
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd99394642120d",
+   "messages": [
+    {
+     "id": "19fd9974f9cef256",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-07T00:19:55Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd99394642120d",
+     "historyId": "10239653",
+     "internalDate": "1786061995000",
+     "sizeEstimate": 43613
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fccfcc1379b389",
+   "messages": [
+    {
+     "id": "19fccfcc1379b389",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-04T13:35:44Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fccfcc1379b389",
+     "historyId": "10235791",
+     "internalDate": "1785850544000",
+     "sizeEstimate": 40933
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fc83226278b31f",
+   "messages": [
+    {
+     "id": "19fc839cbf568ddc",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-03T15:24:12Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fc83226278b31f",
+     "historyId": "10235770",
+     "internalDate": "1785770652000",
+     "sizeEstimate": 43620
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fc562a685bb5df",
+   "messages": [
+    {
+     "id": "19fc562a685bb5df",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-03T02:10:03Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fc562a685bb5df",
+     "historyId": "10235764",
+     "internalDate": "1785723003000",
+     "sizeEstimate": 71871
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fbd4abadea79a1",
+   "messages": [
+    {
+     "id": "19fbd4abadea79a1",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-01T12:26:58Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fbd4abadea79a1",
+     "historyId": "10235722",
+     "internalDate": "1785587218000",
+     "sizeEstimate": 27522
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19faefd837ebceba",
+   "messages": [
+    {
+     "id": "19faefd837ebceba",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-07-29T17:47:57Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19faefd837ebceba",
+     "historyId": "10228577",
+     "internalDate": "1785347277000",
+     "sizeEstimate": 191371
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fa922db7bd68b6",
+   "messages": [
+    {
+     "id": "19fa922db7bd68b6",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-07-28T14:31:00Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fa922db7bd68b6",
+     "historyId": "10225587",
+     "internalDate": "1785249060000",
+     "sizeEstimate": 33139
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fa922af294daec",
+   "messages": [
+    {
+     "id": "19fa922af294daec",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-07-28T14:30:49Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fa922af294daec",
+     "historyId": "10225584",
+     "internalDate": "1785249049000",
+     "sizeEstimate": 33139
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fa92282d48b55e",
+   "messages": [
+    {
+     "id": "19fa92282d48b55e",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-07-28T14:30:38Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fa92282d48b55e",
+     "historyId": "10225581",
+     "internalDate": "1785249038000",
+     "sizeEstimate": 33136
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fa64123c0e553c",
+   "messages": [
+    {
+     "id": "19fa64123c0e553c",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-07-28T01:05:13Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "19fa64123c0e553c",
+     "historyId": "10226734",
+     "internalDate": "1785200713000",
+     "sizeEstimate": 191190
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fa5bbdfc8fae7e",
+   "messages": [
+    {
+     "id": "19fa5bbdfc8fae7e",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-07-27T22:39:39Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fa5bbdfc8fae7e",
+     "historyId": "10225698",
+     "internalDate": "1785191979000",
+     "sizeEstimate": 11977
+    }
+   ],
+   "messageCount": 1
+  }
+ ],
+ "nextPageToken": "02442293889620017645",
+ "resultCountEstimate": "201"
+}

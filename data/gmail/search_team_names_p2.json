@@ -1,0 +1,1158 @@
+{
+ "threads": [
+  {
+   "id": "1a07c690fdeba8ce",
+   "messages": [
+    {
+     "id": "1a07c690fdeba8ce",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue vs Opponent T1 @ Sat Sep 19, 2026 1pm - 3pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-07T15:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a07c690fdeba8ce",
+     "historyId": "10317405",
+     "internalDate": "1788793654000",
+     "sizeEstimate": 30311
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a07c690ecf902f4",
+   "messages": [
+    {
+     "id": "1a07c690ecf902f4",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue vs Opponent T1 @ Sat Sep 19, 2026 3pm - 5pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-07T15:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a07c690ecf902f4",
+     "historyId": "10317402",
+     "internalDate": "1788793654000",
+     "sizeEstimate": 27555
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a06a2bd9c0f42c7",
+   "messages": [
+    {
+     "id": "1a06a2bd9c0f42c7",
+     "snippet": "Changed: time",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Sat Sep 5, 2026 8:30am - 11am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-04T02:07:33Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a06a2bd9c0f42c7",
+     "historyId": "10314479",
+     "internalDate": "1788487653000",
+     "sizeEstimate": 28399
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a05df0c8fedd681",
+   "messages": [
+    {
+     "id": "1a05df0c8fedd681",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue vs Opponent R1 @ Sat Sep 12, 2026 5pm - 7pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-01T17:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a05df0c8fedd681",
+     "historyId": "10306568",
+     "internalDate": "1788282455000",
+     "sizeEstimate": 27555
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a05df0c7933cde7",
+   "messages": [
+    {
+     "id": "1a05df0c7933cde7",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue vs Opponent Q1 @ Sat Sep 12, 2026 3pm - 5pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-01T17:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a05df0c7933cde7",
+     "historyId": "10306566",
+     "internalDate": "1788282455000",
+     "sizeEstimate": 27557
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a05df0c432d2279",
+   "messages": [
+    {
+     "id": "1a05df0c432d2279",
+     "snippet": "Changed: time, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Sep 2, 2026 5pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-09-01T17:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a05df0c432d2279",
+     "historyId": "10306564",
+     "internalDate": "1788282454000",
+     "sizeEstimate": 29323
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a0548483e452798",
+   "messages": [
+    {
+     "id": "1a0548483e452798",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-30T21:12:44Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a0548483e452798",
+     "historyId": "10302699",
+     "internalDate": "1788124364000",
+     "sizeEstimate": 17953
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a04f596eacb0510",
+   "messages": [
+    {
+     "id": "1a04f596eacb0510",
+     "snippet": "Changed: description",
+     "subject": "Updated invitation: Bravo 11u - Blue vs Opponent P1 @ Sun Aug 30, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-29T21:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a04f596eacb0510",
+     "historyId": "10298924",
+     "internalDate": "1788037655000",
+     "sizeEstimate": 28508
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a04f596d6f11ec1",
+   "messages": [
+    {
+     "id": "1a04f596d6f11ec1",
+     "snippet": "Changed: description",
+     "subject": "Updated invitation: Bravo 11u - Blue vs Opponent O1 @ Sun Aug 30, 2026 3:30pm - 5:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-29T21:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a04f596d6f11ec1",
+     "historyId": "10298922",
+     "internalDate": "1788037655000",
+     "sizeEstimate": 28496
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a04aa0eddd0b634",
+   "messages": [
+    {
+     "id": "1a04aa0eddd0b634",
+     "snippet": "Changed: description",
+     "subject": "Updated invitation: Bravo 11u - Blue vs Opponent O1 @ Sun Aug 30, 2026 3:30pm - 5:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-28T23:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a04aa0eddd0b634",
+     "historyId": "10297166",
+     "internalDate": "1787958454000",
+     "sizeEstimate": 28417
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03fb758d499c63",
+   "messages": [
+    {
+     "id": "1a03fb758d499c63",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T20:16:13Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03fb758d499c63",
+     "historyId": "10297222",
+     "internalDate": "1787775373000",
+     "sizeEstimate": 77472
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae79b606472",
+   "messages": [
+    {
+     "id": "1a03cae79b606472",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Mid Atlantic Showcase (both days) @ Sat Nov 14, 2026 9am (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:42Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae79b606472",
+     "historyId": "10297341",
+     "internalDate": "1787724462000",
+     "sizeEstimate": 27386
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae79665d1b5",
+   "messages": [
+    {
+     "id": "1a03cae79665d1b5",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Mid Atlantic Showcase (both days) @ Sun Nov 15, 2026 9am (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:42Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae79665d1b5",
+     "historyId": "10297339",
+     "internalDate": "1787724462000",
+     "sizeEstimate": 27374
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae7894233e2",
+   "messages": [
+    {
+     "id": "1a03cae7894233e2",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Navy Rivalry @ Sat Nov 7, 2026 9am (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:41Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae7894233e2",
+     "historyId": "10297337",
+     "internalDate": "1787724461000",
+     "sizeEstimate": 27386
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae765dc8ca3",
+   "messages": [
+    {
+     "id": "1a03cae765dc8ca3",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - National Fall Lax Fest @ Sun Oct 25, 2026 9am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:41Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae765dc8ca3",
+     "historyId": "10297335",
+     "internalDate": "1787724461000",
+     "sizeEstimate": 27455
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae7542c2932",
+   "messages": [
+    {
+     "id": "1a03cae7542c2932",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Nov 22, 2026 9:30am - 11am (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:40Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae7542c2932",
+     "historyId": "10297333",
+     "internalDate": "1787724460000",
+     "sizeEstimate": 27770
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae74dae0956",
+   "messages": [
+    {
+     "id": "1a03cae74dae0956",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Holiday Event @ Sat Dec 5, 2026 5pm (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:41Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae74dae0956",
+     "historyId": "10301550",
+     "internalDate": "1787724461000",
+     "sizeEstimate": 28302
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae73b38d53b",
+   "messages": [
+    {
+     "id": "1a03cae73b38d53b",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Nov 8, 2026 9:30am - 11am (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:40Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae73b38d53b",
+     "historyId": "10297329",
+     "internalDate": "1787724460000",
+     "sizeEstimate": 27771
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae7208dd6ad",
+   "messages": [
+    {
+     "id": "1a03cae7208dd6ad",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Nov 1, 2026 9:30am - 11am (EST) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:40Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae7208dd6ad",
+     "historyId": "10297327",
+     "internalDate": "1787724460000",
+     "sizeEstimate": 27765
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae715d8cede",
+   "messages": [
+    {
+     "id": "1a03cae715d8cede",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Oct 11, 2026 9:30am - 11am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:39Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae715d8cede",
+     "historyId": "10297325",
+     "internalDate": "1787724459000",
+     "sizeEstimate": 27767
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae70b6f2ffd",
+   "messages": [
+    {
+     "id": "1a03cae70b6f2ffd",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Oct 18, 2026 9:30am - 11am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:40Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae70b6f2ffd",
+     "historyId": "10297323",
+     "internalDate": "1787724460000",
+     "sizeEstimate": 27776
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae6f4ab6adc",
+   "messages": [
+    {
+     "id": "1a03cae6f4ab6adc",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Playday @ Sun Sep 27, 2026 8am - 12pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:39Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae6f4ab6adc",
+     "historyId": "10297321",
+     "internalDate": "1787724459000",
+     "sizeEstimate": 27882
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae6ed937ccb",
+   "messages": [
+    {
+     "id": "1a03cae6ed937ccb",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Oct 4, 2026 9:30am - 11am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:39Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae6ed937ccb",
+     "historyId": "10297319",
+     "internalDate": "1787724459000",
+     "sizeEstimate": 27768
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae6e372fbb9",
+   "messages": [
+    {
+     "id": "1a03cae6e372fbb9",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Sep 20, 2026 9:30am - 11am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:39Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae6e372fbb9",
+     "historyId": "10297317",
+     "internalDate": "1787724459000",
+     "sizeEstimate": 27767
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03cae6c1be3b6b",
+   "messages": [
+    {
+     "id": "1a03cae6c1be3b6b",
+     "snippet": "",
+     "subject": "New event: Delta 2031 Green - Fall Team practice @ Sun Sep 13, 2026 9:30am - 11am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T06:07:38Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03cae6c1be3b6b",
+     "historyId": "10297315",
+     "internalDate": "1787724458000",
+     "sizeEstimate": 27768
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03be65f142f88f",
+   "messages": [
+    {
+     "id": "1a03be6ef61a14f6",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.b@example.com"
+     ],
+     "date": "2026-08-26T02:29:45Z",
+     "labelIds": [
+      "SENT"
+     ],
+     "threadId": "1a03be65f142f88f",
+     "historyId": "10337074",
+     "internalDate": "1787711385000",
+     "sizeEstimate": 17075
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03bd2e0dfe9b87",
+   "messages": [
+    {
+     "id": "1a03bd2e0dfe9b87",
+     "snippet": "",
+     "subject": "(non-schedule email)",
+     "sender": "sender@example.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-26T02:07:34Z",
+     "labelIds": [
+      "IMPORTANT",
+      "INBOX"
+     ],
+     "threadId": "1a03bd2e0dfe9b87",
+     "historyId": "10295192",
+     "internalDate": "1787710054000",
+     "sizeEstimate": 8143
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03562b3ae086ae",
+   "messages": [
+    {
+     "id": "1a03562b3ae086ae",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue vs Opponent O1 @ Sun Aug 30, 2026 3:30pm - 5:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-24T20:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03562b3ae086ae",
+     "historyId": "10291375",
+     "internalDate": "1787602055000",
+     "sizeEstimate": 30231
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a03562b27e5fa3c",
+   "messages": [
+    {
+     "id": "1a03562b27e5fa3c",
+     "snippet": "Changed: title, time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue vs Opponent P1 @ Sun Aug 30, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-24T20:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a03562b27e5fa3c",
+     "historyId": "10291373",
+     "internalDate": "1787602055000",
+     "sizeEstimate": 30442
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "1a001e31626aba38",
+   "messages": [
+    {
+     "id": "1a001e31626aba38",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue at Opponent B2 @ Wed Oct 14, 2026 6:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-14T20:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "1a001e31626aba38",
+     "historyId": "10300116",
+     "internalDate": "1786738054000",
+     "sizeEstimate": 27609
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19ff7cd4c3923e31",
+   "messages": [
+    {
+     "id": "19ff7cd4c3923e31",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue vs Opponent O1 @ Sun Aug 30, 2026 4pm - 6pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-12T21:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19ff7cd4c3923e31",
+     "historyId": "10300114",
+     "internalDate": "1786568854000",
+     "sizeEstimate": 27482
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd91e169e44786",
+   "messages": [
+    {
+     "id": "19fd91e169e44786",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue - Potential tournament in Salisbury @ Sun Oct 11 12am - Mon Oct 12, 2026 12am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T22:07:35Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd91e169e44786",
+     "historyId": "10300096",
+     "internalDate": "1786054055000",
+     "sizeEstimate": 27325
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd91e162435ae1",
+   "messages": [
+    {
+     "id": "19fd91e162435ae1",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue - Potential tournament in Salisbury @ Sat Oct 10 12am - Sun Oct 11, 2026 12am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T22:07:34Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd91e162435ae1",
+     "historyId": "10300094",
+     "internalDate": "1786054054000",
+     "sizeEstimate": 27328
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4bc937adce",
+   "messages": [
+    {
+     "id": "19fd7d4bc937adce",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue - Parents meeting @ Mon Aug 31, 2026 6:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:51Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4bc937adce",
+     "historyId": "10239623",
+     "internalDate": "1786032471000",
+     "sizeEstimate": 27570
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4b85fb82d9",
+   "messages": [
+    {
+     "id": "19fd7d4b85fb82d9",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue - Bravo parents meeting @ Wed Aug 26, 2026 6:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:50Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4b85fb82d9",
+     "historyId": "10239620",
+     "internalDate": "1786032470000",
+     "sizeEstimate": 27547
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4b72f2c9dd",
+   "messages": [
+    {
+     "id": "19fd7d4b72f2c9dd",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue - Practice @ Sat Sep 5, 2026 8:30am - 11:30am (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:49Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4b72f2c9dd",
+     "historyId": "10239617",
+     "internalDate": "1786032469000",
+     "sizeEstimate": 27518
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4b532bdaec",
+   "messages": [
+    {
+     "id": "19fd7d4b532bdaec",
+     "snippet": "",
+     "subject": "New event: Bravo 11u - Blue vs Opponent O1 @ Sun Aug 30, 2026 2pm - 4pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:48Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4b532bdaec",
+     "historyId": "10239614",
+     "internalDate": "1786032468000",
+     "sizeEstimate": 27478
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4b331400b8",
+   "messages": [
+    {
+     "id": "19fd7d4b331400b8",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Oct 21, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:48Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4b331400b8",
+     "historyId": "10239611",
+     "internalDate": "1786032468000",
+     "sizeEstimate": 30298
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4b16299f0c",
+   "messages": [
+    {
+     "id": "19fd7d4b16299f0c",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Oct 7, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:47Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4b16299f0c",
+     "historyId": "10239608",
+     "internalDate": "1786032467000",
+     "sizeEstimate": 30293
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4b080662eb",
+   "messages": [
+    {
+     "id": "19fd7d4b080662eb",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Oct 14, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:47Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4b080662eb",
+     "historyId": "10239605",
+     "internalDate": "1786032467000",
+     "sizeEstimate": 30297
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4aea3b194e",
+   "messages": [
+    {
+     "id": "19fd7d4aea3b194e",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Sep 30, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:47Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4aea3b194e",
+     "historyId": "10239602",
+     "internalDate": "1786032467000",
+     "sizeEstimate": 30304
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4ac505ef35",
+   "messages": [
+    {
+     "id": "19fd7d4ac505ef35",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Sep 16, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:46Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4ac505ef35",
+     "historyId": "10239599",
+     "internalDate": "1786032466000",
+     "sizeEstimate": 30305
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4ac416ed14",
+   "messages": [
+    {
+     "id": "19fd7d4ac416ed14",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Sep 23, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:46Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4ac416ed14",
+     "historyId": "10239596",
+     "internalDate": "1786032466000",
+     "sizeEstimate": 30298
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4ab26bde27",
+   "messages": [
+    {
+     "id": "19fd7d4ab26bde27",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Sep 2, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:46Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4ab26bde27",
+     "historyId": "10239593",
+     "internalDate": "1786032466000",
+     "sizeEstimate": 30291
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4aae768eef",
+   "messages": [
+    {
+     "id": "19fd7d4aae768eef",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Sep 9, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:46Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4aae768eef",
+     "historyId": "10239590",
+     "internalDate": "1786032466000",
+     "sizeEstimate": 30292
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4a752d4a5a",
+   "messages": [
+    {
+     "id": "19fd7d4a752d4a5a",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Wed Aug 26, 2026 5:30pm - 7:30pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:45Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4a752d4a5a",
+     "historyId": "10239587",
+     "internalDate": "1786032465000",
+     "sizeEstimate": 30304
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4a4ab6fcf9",
+   "messages": [
+    {
+     "id": "19fd7d4a4ab6fcf9",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Mon Oct 19, 2026 5:30pm - 7pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:45Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4a4ab6fcf9",
+     "historyId": "10239584",
+     "internalDate": "1786032465000",
+     "sizeEstimate": 30322
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4a21dbefb2",
+   "messages": [
+    {
+     "id": "19fd7d4a21dbefb2",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Mon Oct 12, 2026 5:30pm - 7pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:44Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4a21dbefb2",
+     "historyId": "10239581",
+     "internalDate": "1786032464000",
+     "sizeEstimate": 30319
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d4a1c586cea",
+   "messages": [
+    {
+     "id": "19fd7d4a1c586cea",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Mon Oct 5, 2026 5:30pm - 7pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:43Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d4a1c586cea",
+     "historyId": "10239578",
+     "internalDate": "1786032463000",
+     "sizeEstimate": 30314
+    }
+   ],
+   "messageCount": 1
+  },
+  {
+   "id": "19fd7d49ec9999e7",
+   "messages": [
+    {
+     "id": "19fd7d49ec9999e7",
+     "snippet": "Changed: time, location, description",
+     "subject": "Updated invitation: Bravo 11u - Blue - Practice @ Mon Sep 28, 2026 5:30pm - 7pm (EDT) (Parent A)",
+     "sender": "calendar-notification@google.com",
+     "toRecipients": [
+      "parent.a@example.com"
+     ],
+     "date": "2026-08-06T16:07:43Z",
+     "labelIds": [
+      "INBOX"
+     ],
+     "threadId": "19fd7d49ec9999e7",
+     "historyId": "10239575",
+     "internalDate": "1786032463000",
+     "sizeEstimate": 30326
+    }
+   ],
+   "messageCount": 1
+  }
+ ],
+ "nextPageToken": "13023743549620043098",
+ "resultCountEstimate": "201"
+}

@@ -1,0 +1,4 @@
+{
+ "_note": "Scores go here ONLY when a team email or app notification actually states them. Each entry needs: eventId (from data/season.json), score (as written), source (sender, date, messageId), quote (verbatim line containing the score). As of 2026-10-07 the read-only Gmail searches found no such message for any of the kids' teams, so this list is empty and every game shows 'result not found'.",
+ "results": []
+}

@@ -1,0 +1,152 @@
+{
+ "Aldie, VA": {
+  "lat": 38.975841,
+  "lon": -77.6460477,
+  "osm": "Aldie, Loudoun County, Virginia, United States"
+ },
+ "Alexandria, VA": {
+  "lat": 38.8051095,
+  "lon": -77.0470229,
+  "osm": "Alexandria, Virginia, United States"
+ },
+ "Hometown, MD": {
+  "lat": 39.0,
+  "lon": -76.6,
+  "osm": "Hometown, Maryland, United States (placeholder)"
+ },
+ "Ashburn, VA": {
+  "lat": 39.029784,
+  "lon": -77.4744148,
+  "osm": "Ashburn, Loudoun County, Virginia, United States"
+ },
+ "Bel Air, MD": {
+  "lat": 39.5243334,
+  "lon": -76.3123637,
+  "osm": "21015, Harford County, Maryland, United States (ZIP centroid; town search hit the wrong Bel Air)"
+ },
+ "Family, MD": {
+  "lat": 39.1840886,
+  "lon": -77.3122325,
+  "osm": "Family, Germantown, Montgomery County, Maryland, 20841, United States"
+ },
+ "Bryn Athyn, PA": {
+  "lat": 40.1314988,
+  "lon": -75.0673938,
+  "osm": "Bryn Athyn, Montgomery County, Pennsylvania, 19009, United States"
+ },
+ "Columbia, MD": {
+  "lat": 39.1938429,
+  "lon": -76.8646092,
+  "osm": "Columbia, Howard County, Maryland, United States"
+ },
+ "Curtis Bay, MD": {
+  "lat": 39.2252188,
+  "lon": -76.5900312,
+  "osm": "Curtis Bay, Baltimore, Maryland, United States"
+ },
+ "Edgewater, MD": {
+  "lat": 38.9358105,
+  "lon": -76.5530141,
+  "osm": "Edgewater, Anne Arundel County, Maryland, United States"
+ },
+ "Edgewood, MD": {
+  "lat": 39.4209299,
+  "lon": -76.2901568,
+  "osm": "Edgewood, Harford County, Maryland, United States"
+ },
+ "Ellicott City, MD": {
+  "lat": 39.2757359,
+  "lon": -76.8317417,
+  "osm": "Ellicott City, Howard County, Maryland, United States"
+ },
+ "Fairfax Station, VA": {
+  "lat": 38.79255,
+  "lon": -77.3451678,
+  "osm": "Fairfax Station, Fairfax County, Virginia, United States"
+ },
+ "Gambrills, MD": {
+  "lat": 39.0963486,
+  "lon": -76.6549097,
+  "osm": "Gambrills, Anne Arundel County, Maryland, United States"
+ },
+ "Nearby Town, MD": {
+  "lat": 39.1595439,
+  "lon": -76.6151514,
+  "osm": "Nearby Town, Anne Arundel County, Maryland, 21061, United States"
+ },
+ "Hammonton, NJ": {
+  "lat": 39.6366543,
+  "lon": -74.8027651,
+  "osm": "Hammonton, Atlantic County, New Jersey, 08037, United States"
+ },
+ "Harwood, MD": {
+  "lat": 38.8867068,
+  "lon": -76.6030343,
+  "osm": "20776, Anne Arundel County, Maryland, United States (ZIP centroid; town search hit the wrong Harwood)"
+ },
+ "Laurel, MD": {
+  "lat": 39.0984317,
+  "lon": -76.8485094,
+  "osm": "Laurel, Prince George's County, Maryland, 20707, United States"
+ },
+ "Manheim, PA": {
+  "lat": 40.1637359,
+  "lon": -76.3952429,
+  "osm": "Manheim, Lancaster County, Pennsylvania, 17545, United States"
+ },
+ "Medford, NJ": {
+  "lat": 39.9009472,
+  "lon": -74.8234961,
+  "osm": "Medford Township, Burlington County, New Jersey, 08055, United States"
+ },
+ "Palmyra, PA": {
+  "lat": 40.3088578,
+  "lon": -76.5932369,
+  "osm": "Palmyra, Lebanon County, Pennsylvania, United States"
+ },
+ "Parkton, MD": {
+  "lat": 39.6409378,
+  "lon": -76.6591376,
+  "osm": "Parkton, Baltimore County, Maryland, 21120, United States"
+ },
+ "Pasadena, MD": {
+  "lat": 39.155816,
+  "lon": -76.5528815,
+  "osm": "Pasadena, Anne Arundel County, Maryland, United States"
+ },
+ "Quakertown, PA": {
+  "lat": 40.4417682,
+  "lon": -75.3415667,
+  "osm": "Quakertown, Bucks County, Pennsylvania, 18951, United States"
+ },
+ "Quinton, VA": {
+  "lat": 37.5327893,
+  "lon": -77.1154448,
+  "osm": "Quinton, New Kent County, Virginia, 23124, United States"
+ },
+ "Severn, MD": {
+  "lat": 39.1354665,
+  "lon": -76.7006238,
+  "osm": "Severn, Anne Arundel County, Maryland, United States"
+ },
+ "Stevensville, MD": {
+  "lat": 38.9777659,
+  "lon": -76.3189417,
+  "osm": "Stevensville, Queen Anne's County, Maryland, 21666, United States"
+ },
+ "Timonium, MD": {
+  "lat": 39.4475075,
+  "lon": -76.5974223,
+  "osm": "Timonium, Baltimore County, Maryland, United States"
+ },
+ "Upper Marlboro, MD": {
+  "lat": 38.8162451,
+  "lon": -76.751708,
+  "osm": "Upper Marlboro, Prince George's County, Maryland, United States"
+ },
+ "Washington, DC": {
+  "lat": 38.8950982,
+  "lon": -77.0363849,
+  "osm": "Washington, District of Columbia, United States"
+ }
+}

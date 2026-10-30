@@ -1,0 +1,2969 @@
+{
+ "summary": "Family event",
+ "description": "",
+ "updated": "2026-10-07T19:35:20Z",
+ "timeZone": "America/New_York",
+ "accessRole": "owner",
+ "events": [
+  {
+   "id": "_6so48h1l6kok2b9h6coj0b9k6p0k6b9o712j4ba370ok4dhj8opjig9o8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/69",
+   "created": "2026-06-29T16:44:49Z",
+   "updated": "2026-06-29T16:44:49Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-01T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-01T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8gq3ic1p6or42ba164p42b9k6sr34b9p6oqk4b9g68rj0c9p64q4cgpk8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/70",
+   "created": "2026-07-02T03:44:16Z",
+   "updated": "2026-07-02T03:44:16Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-02T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-02T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64pkchhh88p4ab9n6h13eb9k65346ba18cpkcb9g6so32c1l6133ehi18c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/71",
+   "created": "2026-07-28T14:30:37Z",
+   "updated": "2026-08-03T12:06:40Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 18 - 18 Venue Rd, Pasadena, MD",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-03T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-03T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_60p3ig9j6p23cb9i8l23eb9k8oqjcb9o6op3cba48d2j6dpk60o42ha28g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/72",
+   "created": "2026-07-25T15:37:54Z",
+   "updated": "2026-07-25T15:37:54Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-03T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-03T10:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c_20260803T153000Z",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/73",
+   "created": "2026-06-22T01:01:08Z",
+   "updated": "2026-06-22T01:01:08Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-03T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-03T12:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c",
+   "originalStartTime": {
+    "dateTime": "2026-08-03T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8grk8ga68cs30b9g6spj8b9k6h1kcb9p6t248b9k70qkcdpj6gpjac1n8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/74",
+   "created": "2026-07-28T14:55:40Z",
+   "updated": "2026-07-28T14:55:40Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-03T13:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-03T14:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8kq3aea160sjcb9m84r4cb9k8cqj8b9p6t2k2ba68p34chhg64q36hho64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/75",
+   "created": "2026-07-29T17:45:45Z",
+   "updated": "2026-07-29T17:45:52Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 19",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-08-04"
+   },
+   "end": {
+    "date": "2026-08-05"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": false
+  },
+  {
+   "id": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c_20260804T153000Z",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/76",
+   "created": "2026-06-22T01:01:08Z",
+   "updated": "2026-06-22T01:01:08Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-04T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-04T12:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c",
+   "originalStartTime": {
+    "dateTime": "2026-08-04T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8crjad9l6d23ib9p6os3eb9k6kskaba16co34b9h64rjigq584okaghl74",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/77",
+   "created": "2026-05-13T23:39:01Z",
+   "updated": "2026-05-13T23:39:01Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-04T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-04T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8gqk2chl6sr32ba56p0k8b9k84rk8b9o6kok4ba2691j0d9n70q4agph68",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/78",
+   "created": "2026-08-03T19:50:19Z",
+   "updated": "2026-08-04T15:15:31Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 20",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-04T12:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-04T12:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": false
+  },
+  {
+   "id": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c_20260805T153000Z",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/79",
+   "created": "2026-06-22T01:01:08Z",
+   "updated": "2026-06-22T01:01:08Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-05T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-05T12:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c",
+   "originalStartTime": {
+    "dateTime": "2026-08-05T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c_20260806T153000Z",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/80",
+   "created": "2026-06-22T01:01:08Z",
+   "updated": "2026-06-22T01:01:08Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-06T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-06T12:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c",
+   "originalStartTime": {
+    "dateTime": "2026-08-06T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "1lnj1vrvmpakeh90j6evmcldec",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/81",
+   "created": "2026-08-06T22:47:32Z",
+   "updated": "2026-08-06T22:47:32Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 21",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-07T11:20:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-07T11:40:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_68rkahi668ojcba388q38b9k6d33gba26h2j2ba46l242c9n60qk4gpm60",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/82",
+   "created": "2026-08-06T22:48:36Z",
+   "updated": "2026-08-06T22:48:36Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-07T11:20:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-07T12:20:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c_20260807T153000Z",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/83",
+   "created": "2026-06-22T01:01:08Z",
+   "updated": "2026-06-22T01:01:08Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-07T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-07T12:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "recurringEventId": "_8cq4ce1h8d1kab9g6d2j2b9k611j8b9o6ko44ba6750kcd1k8kp46gpm8c",
+   "originalStartTime": {
+    "dateTime": "2026-08-07T11:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6h132ghj611j0b9g60p32b9k6so34ba1751jgb9m8cpj6e9l6oqk8c9n6s",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/84",
+   "created": "2026-07-27T14:50:09Z",
+   "updated": "2026-08-07T21:36:33Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 22 - 22 Venue Rd, Nearby Town, MD",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-08T13:30:00-04:00",
+    "timeZone": "America/Cancun"
+   },
+   "end": {
+    "dateTime": "2026-08-08T16:30:00-04:00",
+    "timeZone": "America/Cancun"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c_20260809",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/85",
+   "created": "2023-06-29T22:15:26Z",
+   "updated": "2023-06-29T22:15:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-08-09"
+   },
+   "end": {
+    "date": "2026-08-10"
+   },
+   "recurringEventId": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c",
+   "originalStartTime": {
+    "date": "2026-08-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70pj0h1p8kp48b9h8cs42b9k6d1j6ba164r3gba66kpj8gpi8p1jechn6o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/86",
+   "created": "2026-07-28T14:30:48Z",
+   "updated": "2026-08-09T22:43:28Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 18 - 18 Venue Rd, Pasadena, MD",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-10T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-10T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6l1jighl690k4ba274p38b9k8ko48b9p84rj0b9i6h346e1m650k6e248g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/87",
+   "created": "2026-08-03T22:42:46Z",
+   "updated": "2026-08-03T22:42:46Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-10T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-10T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_88o4cgq18cq3cb9i8p2j2b9k8l1jgb9o850k2ba26so42chn651j6gph84",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/88",
+   "created": "2026-08-05T16:59:21Z",
+   "updated": "2026-08-05T16:59:21Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-10T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-10T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6h0jee1l8crk4b9l8or30b9k68o3eb9p74qjgba66p332e1g6kq3aghj68",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/89",
+   "created": "2026-07-18T01:06:27Z",
+   "updated": "2026-07-18T01:06:27Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-10T15:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-10T16:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_60rk6da688ok6b9l6d244b9k6kr48ba184s46b9j68oj4h228p0k6h1n8k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/90",
+   "created": "2026-07-31T20:00:49Z",
+   "updated": "2026-07-31T20:00:49Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-12T08:00:00-04:00",
+    "timeZone": "America/Cancun"
+   },
+   "end": {
+    "dateTime": "2026-08-16T09:00:00-04:00",
+    "timeZone": "America/Cancun"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_690jae256kokaba28ks30b9k70ok6ba26ko4cba36d0kaci660pjghhl6g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/91",
+   "created": "2026-04-15T13:36:06Z",
+   "updated": "2026-04-15T13:36:31Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-17T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-17T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": false
+  },
+  {
+   "id": "3vpo5mdn7uqass904fe72qgioh",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/92",
+   "created": "2026-08-02T21:29:02Z",
+   "updated": "2026-08-02T21:29:02Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-17T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-17T10:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6osj8d1l7113gb9p6t24cb9k84r4ab9p6kpj4b9o6ork4ghl6cqk2hi460",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/93",
+   "created": "2026-08-10T00:55:20Z",
+   "updated": "2026-08-10T00:55:20Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-17T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-17T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_60p46g9p68o32b9g6cqjeb9k750k4ba26crk2b9j8h338dhg68q42h216c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/94",
+   "created": "2026-08-02T21:44:37Z",
+   "updated": "2026-08-02T22:07:14Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-17T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-17T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "59kg8kt6jmpaqj19nnf1u90vjo",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/95",
+   "created": "2026-08-02T21:29:16Z",
+   "updated": "2026-08-02T21:29:16Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-18T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-18T10:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o38hi564o38ba56p0j0b9k6ooj8b9p64s48b9h611jie9g84ojeh9l64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/96",
+   "created": "2026-08-17T19:37:14Z",
+   "updated": "2026-08-18T14:56:44Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 20",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-18T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-18T11:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": false
+  },
+  {
+   "id": "_8p242h1n692jgba56oo3gb9k64oj0ba188pkcba16933ec1m8gq36h2284",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/97",
+   "created": "2026-08-09T17:45:57Z",
+   "updated": "2026-08-09T17:45:58Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-18T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-18T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_88s4cea38gojab9m8h2j8b9k8l2j6ba18p2k2ba168pk8d1k6gp34c9k8k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/98",
+   "created": "2026-07-28T14:30:57Z",
+   "updated": "2026-08-17T11:09:31Z",
+   "summary": "Family event",
+   "description": "",
+   "location": "Venue 18 - 18 Venue Rd, Pasadena, MD",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-19T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-19T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "77n9u1dri1cgetp3s96rjus54j",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/99",
+   "created": "2026-08-02T21:29:24Z",
+   "updated": "2026-08-02T21:29:24Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-19T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-19T10:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8gsj0c9i6t1j8ba56h0k2b9k6p1k2ba16or48ba46sojec9j8h338cpl60",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/100",
+   "created": "2026-08-09T17:02:19Z",
+   "updated": "2026-08-09T17:02:19Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-19T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-19T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8cqk8cq48523eb9g68rjab9k8cs3cba17513gb9i6kpk2gpn8d244c2674",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/101",
+   "created": "2026-08-04T13:12:45Z",
+   "updated": "2026-08-05T02:19:08Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-19T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-19T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": false
+  },
+  {
+   "id": "66kr7o57j5qtvtg1e6kfu1dsg7",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/102",
+   "created": "2026-08-02T21:29:31Z",
+   "updated": "2026-08-02T21:29:31Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-20T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-20T10:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8ksj4h256cp4cba468r48b9k68s3cba18kojeb9o8kojccpi88s30c1h6o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/103",
+   "created": "2026-08-06T01:59:58Z",
+   "updated": "2026-08-06T01:59:59Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-20T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-20T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "l81df9esahfslakqnr1vpi6gg8_20260821",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/104",
+   "created": "2020-03-02T13:21:07Z",
+   "updated": "2020-10-03T22:59:07Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-08-21"
+   },
+   "end": {
+    "date": "2026-08-22"
+   },
+   "recurringEventId": "l81df9esahfslakqnr1vpi6gg8",
+   "originalStartTime": {
+    "date": "2026-08-21"
+   },
+   "transparency": "transparent",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_610k8da374rjcba470r38b9k6gs48ba170r44ba46d1k2gpk74qj6cpo6g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/105",
+   "created": "2026-08-18T13:14:24Z",
+   "updated": "2026-08-18T13:14:24Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-22T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-22T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_85144ghk60pk4b9p8kpk4b9k690jgb9o74pj2ba560pjgh1g6524ad1i6g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/106",
+   "created": "2026-06-24T02:38:37Z",
+   "updated": "2026-06-24T02:38:37Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-22T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-22T22:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_710j2ca66514ab9o6h234b9k6gsjeb9p751j4ba364s42e2684p4cha58g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/107",
+   "created": "2026-08-18T00:58:46Z",
+   "updated": "2026-08-18T00:58:46Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-23T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-23T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8p2k8chj8kp36ba18gsj2b9k8p232ba18go34b9n8p2k8h9i68rj8e1j64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/108",
+   "created": "2026-08-10T13:58:54Z",
+   "updated": "2026-08-10T13:58:54Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-24T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-24T10:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8l2k8ci46os48b9l6d330b9k6so32b9o60r32b9j6p136di368q48e1n8k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/109",
+   "created": "2026-08-03T18:36:06Z",
+   "updated": "2026-08-03T18:36:06Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-24T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-24T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6kpk2h1i6cr44ba36t23gb9k851kaba26p248b9h69144c21652jgca66c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/110",
+   "created": "2026-07-31T13:48:50Z",
+   "updated": "2026-07-31T13:48:50Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-24T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-24T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_84rj2ghi6p2k6ba46orjeb9k64pjeb9p6opk6b9i8krkahhh85344dpg6c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/111",
+   "created": "2026-08-19T13:55:19Z",
+   "updated": "2026-08-19T13:55:19Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-28T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-28T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6p1j6h1g84r3ib9h88r3ib9k6csk8b9o6kqkab9l6cp4aha36sqj4c9j8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/112",
+   "created": "2026-08-10T13:32:08Z",
+   "updated": "2026-08-31T13:22:29Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-31T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-31T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6op34dpl6so30b9p8krjib9k8d0k2ba16kp30b9p691j4h9l8opkce9m74",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/113",
+   "created": "2026-08-20T19:24:03Z",
+   "updated": "2026-08-20T19:24:03Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-31T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-31T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_84rjega384pjib9k60sk6b9k6t1jaba16d330b9g8gq3igq264r3id9i8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/114",
+   "created": "2026-08-10T19:44:25Z",
+   "updated": "2026-08-10T19:44:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-04T15:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-04T16:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70r42d266sp3gb9n84sjcb9k70rjeb9p8l242ba584r38cpn6h230gq388",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/115",
+   "created": "2026-08-31T14:10:29Z",
+   "updated": "2026-08-31T14:10:29Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-07T12:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-07T13:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6sq38da56p34cba36l136b9k6t2k6ba18p0jeb9m88rj2cq46gp30ea26k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/116",
+   "created": "2026-08-27T11:29:23Z",
+   "updated": "2026-08-27T11:29:23Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-07T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-07T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c_20260909",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/117",
+   "created": "2023-06-29T22:15:26Z",
+   "updated": "2023-06-29T22:15:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-09-09"
+   },
+   "end": {
+    "date": "2026-09-10"
+   },
+   "recurringEventId": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c",
+   "originalStartTime": {
+    "date": "2026-09-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_60s3cd2684pkab9i70sj6b9k6crk2b9p8gq32b9m8924achm6t0j2gpg8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/118",
+   "created": "2026-09-03T16:37:48Z",
+   "updated": "2026-09-03T16:37:48Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-10T16:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-10T17:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_68ok8ga270sj2ba36sq3gb9k6ss38ba18os3cb9o6l2j6chj88oj0di56o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/119",
+   "created": "2026-07-06T15:47:48Z",
+   "updated": "2026-09-08T16:58:09Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-11T14:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-11T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8os4aci18l0jcb9k70o38b9k6kq3ab9p6l348b9l6op38e1k6or4ce2474",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/120",
+   "created": "2026-08-20T01:15:39Z",
+   "updated": "2026-08-20T01:15:39Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-11T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-11T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o32ghg850j6b9m6oq4ab9k6113gba26p1jgba6711j6c2368skch1i8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/121",
+   "created": "2026-07-13T22:38:51Z",
+   "updated": "2026-07-13T22:38:51Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-12T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-12T21:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8cskce256113cba28l0kab9k8p234b9p8kpk4ba38cs44dhj6kr34gpk8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/122",
+   "created": "2026-09-05T01:57:27Z",
+   "updated": "2026-09-05T01:57:27Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-14T08:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-14T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_84oj0gq46d1j4b9k8cq32b9k852k4ba275344ba2852j4ghh88o3achh64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/123",
+   "created": "2026-07-29T22:01:32Z",
+   "updated": "2026-08-17T19:24:02Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-14T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-14T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6gq32hhi8kok6b9o8cp4cb9k651j0ba288s32b9j8cq30dpo68rj2ghp60",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/124",
+   "created": "2026-09-07T16:37:34Z",
+   "updated": "2026-09-07T16:37:34Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-14T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-14T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8d33ce1m70okcb9l60q3cb9k70rk8b9p88r48b9l6srk6e1k6513ic1j8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/125",
+   "created": "2026-08-17T15:53:52Z",
+   "updated": "2026-08-17T15:53:52Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-14T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-14T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6or36gi364pj6ba46orj6b9k8ksjcb9o8p342b9l6l1kcc1n6p248h9p6k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/126",
+   "created": "2026-09-10T13:54:27Z",
+   "updated": "2026-09-10T13:54:27Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-16T13:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-16T14:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "1169mti8uibbpht5h1qkiccikj",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/127",
+   "created": "2026-06-08T21:09:04Z",
+   "updated": "2026-06-08T21:09:04Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-16T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-16T19:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_651jae9h752j6b9k68o44b9k68s48b9p60pjib9l88qkagpj74rj8chj70",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/128",
+   "created": "2026-09-01T00:46:05Z",
+   "updated": "2026-09-01T00:46:05Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-16T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-16T19:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6gok4chj8cp46ba38h336b9k64pj2b9o88pj4b9j6t348cpl88okag9m6o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/129",
+   "created": "2026-09-13T22:50:11Z",
+   "updated": "2026-09-13T22:50:11Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-17T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-17T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6kqk4chk6513iba18gqjcb9k890k2ba16114ab9p8kqj4e1j8cojec1j8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/130",
+   "created": "2026-09-07T21:14:31Z",
+   "updated": "2026-09-07T21:14:32Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-17T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-17T19:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_892k8ci270p34b9m8gpkcb9k8kskab9o8ks42ba369342chm6kqk2gph6k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/131",
+   "created": "2026-08-25T00:54:15Z",
+   "updated": "2026-08-25T00:54:15Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-18T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-18T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70qk8h9i84rj0ba361338b9k7514cba188pjeb9j6cp44cq488q42g9m64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/132",
+   "created": "2026-08-05T13:08:50Z",
+   "updated": "2026-08-05T13:08:50Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-21T07:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-21T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64p4ch9g6kqj4b9m88qj8b9k6l2k8b9o88rkab9o8op44d1p84p38chh8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/133",
+   "created": "2026-09-10T23:37:54Z",
+   "updated": "2026-09-10T23:37:54Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-21T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-21T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8l1j6c9g60s32ba16d1kcb9k8op44ba2651j4ba46gpj8c1n6ks36c1m60",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/134",
+   "created": "2026-09-10T20:44:03Z",
+   "updated": "2026-09-10T20:44:03Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-21T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-21T18:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8go48dq688rjeb9h8p338b9k6h144ba160o46b9p84q48h9g6l0jeg9o74",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/135",
+   "created": "2026-09-18T19:33:48Z",
+   "updated": "2026-09-18T19:33:48Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-21T12:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-21T13:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8kpjadq26sok4b9h6ssj4b9k6ook4b9o8gr3cb9l6l334e1l8kp42gph70",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/136",
+   "created": "2026-09-18T11:22:41Z",
+   "updated": "2026-09-18T11:22:42Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-25T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-25T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6oo3gdph74qj2ba468p48b9k651kab9p6crk6b9p8gq38ha38h1k2gpg6o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/137",
+   "created": "2026-09-18T21:52:03Z",
+   "updated": "2026-09-18T21:52:03Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-28T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-28T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8h2k8di368r34b9i8krjeb9k8p13iba28grk2ba48os38gi46t0j6gpm84",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/138",
+   "created": "2026-08-26T23:06:09Z",
+   "updated": "2026-08-26T23:07:37Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-28T14:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-28T15:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6kpj4dhj8d0j2ba1652kcb9k6913eba26d2kcb9o8osj0e236t338d1j88",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/139",
+   "created": "2026-09-23T13:00:26Z",
+   "updated": "2026-09-23T13:00:27Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-28T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-28T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70oj8c9j6gq42ba56sq4ab9k6h232b9p8l0jcb9n6p2jic9o8h0j6ea58c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/140",
+   "created": "2026-09-30T00:01:49Z",
+   "updated": "2026-09-30T00:01:49Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-02T14:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-02T15:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6h33gc9i89148b9l691k2b9k8go46b9p8osj2b9n8cr4agi16gojec9p64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/141",
+   "created": "2026-09-30T22:28:50Z",
+   "updated": "2026-09-30T22:28:50Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-02T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-02T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8crkcgpp6l23ib9j6coj2b9k692jiba16l24cba585234di46oq32dq28g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/142",
+   "created": "2026-08-17T15:56:17Z",
+   "updated": "2026-08-17T15:56:30Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-03T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-03T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_84ojic1h71244b9i8ooj6b9k8h0jeb9p88qjab9m6ko3aghg6ksjgchp88",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/143",
+   "created": "2026-08-25T13:31:20Z",
+   "updated": "2026-08-25T13:31:21Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-05T08:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-05T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8914cd266gqkcba58kqjib9k70rk8b9p6cr4cb9o88s34cho8oo36h1n84",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/144",
+   "created": "2026-09-04T21:14:48Z",
+   "updated": "2026-09-04T21:14:49Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-05T12:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-05T13:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8d2j4dq38d2k6ba48d1j8b9k8cp42ba16h23gb9p61330e9n8cr38gi564",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/145",
+   "created": "2026-10-02T17:47:33Z",
+   "updated": "2026-10-02T17:47:33Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-05T15:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-05T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6d248hhn8d23ib9p8ks34b9k8l230b9p8l14cba16t0k8e1p8osjce9o60",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/146",
+   "created": "2026-05-20T17:10:32Z",
+   "updated": "2026-09-13T02:20:18Z",
+   "summary": "Family event",
+   "location": "Venue 23 - 23 Venue Rd, Baltimore, MD",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-05T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-05T20:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c_20261009",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/147",
+   "created": "2023-06-29T22:15:26Z",
+   "updated": "2023-06-29T22:15:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-10-09"
+   },
+   "end": {
+    "date": "2026-10-10"
+   },
+   "recurringEventId": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c",
+   "originalStartTime": {
+    "date": "2026-10-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8ksj8dho88qjaba38cr3ab9k6h0jeb9o6d0jeb9m6op3ccho71342gpp6s",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/148",
+   "created": "2026-08-31T23:56:14Z",
+   "updated": "2026-08-31T23:56:14Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-10-12"
+   },
+   "end": {
+    "date": "2026-10-16"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_60o48c1o88sk6b9o60okcb9k692j2b9p8h13gb9h8gsk6h9g88qjid9k6o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/149",
+   "created": "2026-10-06T19:49:54Z",
+   "updated": "2026-10-06T19:49:54Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-12T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-12T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8kq4ada3751jcba36l1j8b9k6os4cba26sp3gb9p71232e1j892j2chm70",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/150",
+   "created": "2026-09-20T16:54:22Z",
+   "updated": "2026-09-20T16:54:23Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-14T15:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-14T17:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8h2jghi26524ab9n8grj4b9k84s36ba174qj8ba46cpkac9i652j2dpl6c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/151",
+   "created": "2026-09-20T16:54:42Z",
+   "updated": "2026-09-20T16:55:25Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-21T15:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-21T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_610k2c1j6l0k8b9k850k4b9k6114aba16cr3eba188o42d9g84o46da16s",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/152",
+   "created": "2026-09-30T21:43:53Z",
+   "updated": "2026-09-30T21:43:54Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-21T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-21T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70sj0cho8p1j4b9p6t0k4b9k6t2jcb9o6d0j2b9l60q4ad238cq48d9o68",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/153",
+   "created": "2026-10-07T19:35:19Z",
+   "updated": "2026-10-07T19:35:19Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-22T16:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-22T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8p2kcd9j8oqjcba474r46b9k6ksk8b9o84sjab9p84qjcea488s44c9m6k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/154",
+   "created": "2026-09-22T13:37:38Z",
+   "updated": "2026-09-22T13:37:39Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-26T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-26T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_752k4gi188sjab9j74sjab9k64s3iba26cq46b9m6oqk4ghp8grjag9h84",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/155",
+   "created": "2026-09-28T14:59:42Z",
+   "updated": "2026-09-28T14:59:42Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-26T10:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-26T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8op3ah9k65144ba170p3cb9k8cqjcba2852j6b9g68oj0d9n650jee2160",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/156",
+   "created": "2026-09-11T19:37:02Z",
+   "updated": "2026-09-11T19:37:02Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-26T12:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-26T13:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6kq34d1g8ko4aba56ss30b9k6gq36b9o8h246b9n6krj2c9i6l2k8c9k6s",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/157",
+   "created": "2026-10-05T20:49:26Z",
+   "updated": "2026-10-05T20:49:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-26T15:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-26T16:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70p30gi16sqjgb9m6oskcb9k8gr36ba28l14cb9p88r3eda38cr46gq58k",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/158",
+   "created": "2026-09-20T16:54:52Z",
+   "updated": "2026-09-20T16:55:17Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-28T15:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-28T17:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_85242chg74qj2ba46ss3ab9k60qk4b9o74o32b9n68qj0e1n70r36ci28g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/159",
+   "created": "2026-10-03T03:21:55Z",
+   "updated": "2026-10-03T03:21:55Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-30T18:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-30T19:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8l23eda671230ba66ss3cb9k8l33ib9o6gr46ba574qjiga18or42ga56o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/160",
+   "created": "2026-09-30T11:28:34Z",
+   "updated": "2026-09-30T11:28:35Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-02T07:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-06T08:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8l33aghi70r4cba284p36b9k60ok2b9o6p0jib9h6crjcdhl60qkaea66g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/161",
+   "created": "2026-09-10T13:55:30Z",
+   "updated": "2026-10-05T17:52:21Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-02T13:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-02T14:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_70rj6e1m8os32b9m6op3eb9k84r3cb9o6cr46b9o6513egpg64pj8c1g8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/162",
+   "created": "2026-10-05T17:53:57Z",
+   "updated": "2026-10-05T17:53:57Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-02T16:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-02T17:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "4g83nmapecmp6od5l48dq4g1ds_20261107",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/163",
+   "created": "2020-03-02T13:21:40Z",
+   "updated": "2020-10-03T22:58:42Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-11-07"
+   },
+   "end": {
+    "date": "2026-11-08"
+   },
+   "recurringEventId": "4g83nmapecmp6od5l48dq4g1ds",
+   "originalStartTime": {
+    "date": "2026-11-07"
+   },
+   "transparency": "transparent",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c_20261109",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/164",
+   "created": "2023-06-29T22:15:26Z",
+   "updated": "2023-06-29T22:15:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-11-09"
+   },
+   "end": {
+    "date": "2026-11-10"
+   },
+   "recurringEventId": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c",
+   "originalStartTime": {
+    "date": "2026-11-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6co30d1k6gpkab9g6sq3ib9k74p38b9p6kr3iba28os4ad256sqjah9g8o",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/165",
+   "created": "2026-09-20T16:55:09Z",
+   "updated": "2026-09-20T16:55:09Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-11T15:15:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-11T17:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_712kad1j88s30b9n8kr36b9k6op3aba28l232b9n6cp34dhi64s3ec2364",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/166",
+   "created": "2026-10-05T12:26:59Z",
+   "updated": "2026-10-05T12:26:59Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-16T08:40:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-16T09:40:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_84o30d9o8ks34b9h64o42b9k6ks4ab9o750k2ba6612k6ga3891k6h1l6g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/167",
+   "created": "2026-10-03T03:20:46Z",
+   "updated": "2026-10-03T03:20:46Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-20T17:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-20T18:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8orj4ga66oqjib9j6cp3ib9k8oojaba26krj2b9i8h0jighh74o34cq570",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/168",
+   "created": "2026-10-05T17:56:34Z",
+   "updated": "2026-10-05T17:56:34Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-23T16:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-23T17:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cqk8e238p342b9h8oskcb9k8h332b9o6gq42b9l890j0gpj6d244h9o6s",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/169",
+   "created": "2026-10-03T15:33:32Z",
+   "updated": "2026-10-03T15:33:32Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-05T10:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-05T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_68r30cpg8l0jgb9l8cpj2b9k8h2j0b9p84sk8ba28h2j8hhm612j0hhh60",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/170",
+   "created": "2026-09-21T15:04:59Z",
+   "updated": "2026-09-21T15:04:59Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-07T10:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-07T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c_20261209",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/171",
+   "created": "2023-06-29T22:15:26Z",
+   "updated": "2023-06-29T22:15:26Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-12-09"
+   },
+   "end": {
+    "date": "2026-12-10"
+   },
+   "recurringEventId": "_8oo42chm64rk2ba48ko3ib9k85232ba26p0jcba58l236cq58d334gi66c",
+   "originalStartTime": {
+    "date": "2026-12-09"
+   },
+   "transparency": "transparent",
+   "visibility": "public",
+   "eventType": "DEFAULT",
+   "availability": "AVAILABILITY_FREE",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_8d348e1p690k6b9l6co30b9k64p48ba26l0k4ba388pjagpo64pj0d9j8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/172",
+   "created": "2026-09-30T11:28:55Z",
+   "updated": "2026-09-30T11:28:55Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-14T07:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-18T08:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_691j0dhn8p0kcb9k8d2j8b9k612k4ba18koj6ba18p134dhj84o4cgpi8c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/173",
+   "created": "2026-09-11T19:37:13Z",
+   "updated": "2026-09-11T19:37:13Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-14T12:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-14T13:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6crj4dhp8923eb9m8cr34b9k8d13gb9p74p36b9l88s4aci4691jic9p70",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/174",
+   "created": "2026-10-05T17:56:55Z",
+   "updated": "2026-10-05T17:56:55Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.b@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-18T16:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-18T17:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_68rjge1i70rk6ba364qk8b9k6sq34ba26cq4cba48d0j0gi18ksk2h1k64",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/175",
+   "created": "2026-06-22T20:44:13Z",
+   "updated": "2026-06-22T20:44:13Z",
+   "summary": "Family event",
+   "creator": {
+    "email": "parent.a@example.com"
+   },
+   "organizer": {
+    "email": "calendar-2@example.com",
+    "displayName": "Family Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-21T15:35:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-21T16:35:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  }
+ ]
+}

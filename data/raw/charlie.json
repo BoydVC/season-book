@@ -1,0 +1,2077 @@
+{
+ "summary": "360Player Event calendar",
+ "updated": "2026-10-07T21:11:55Z",
+ "timeZone": "UTC",
+ "accessRole": "reader",
+ "events": [
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ecpo68sjc",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/1",
+   "created": "2026-07-24T16:39:39Z",
+   "updated": "2026-08-03T22:11:55Z",
+   "summary": "Academy Training Night (OPTIONAL)",
+   "description": "",
+   "location": "Venue 1 - 1 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-03T19:15:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-03T20:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o70r3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/2",
+   "created": "2026-06-05T13:31:07Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Practice Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-11T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-11T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o70r3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/3",
+   "created": "2026-06-05T13:31:07Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Practice Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-13T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-13T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3icph74p30",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/4",
+   "created": "2026-08-16T16:14:53Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "Scrimmage vs Opponent A",
+   "description": "",
+   "location": "Venue 3 - 3 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-17T18:15:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-17T19:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o70r3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/5",
+   "created": "2026-06-05T13:31:07Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Practice Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-18T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-18T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o70r3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/6",
+   "created": "2026-06-05T13:31:07Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Practice Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-20T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-20T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3idhk60q3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/7",
+   "created": "2026-08-19T10:29:24Z",
+   "updated": "2026-08-22T09:11:55Z",
+   "summary": "Scrimmage vs Opponent B",
+   "description": "",
+   "location": "Venue 4 - 4 Venue Rd, Alexandria, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-23T11:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-23T12:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ecpk6kqja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/8",
+   "created": "2026-07-23T22:58:13Z",
+   "updated": "2026-08-25T05:14:05Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-25T20:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-25T21:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o70sji",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/9",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-27T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-27T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3idpi6crj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/10",
+   "created": "2026-08-19T21:52:52Z",
+   "updated": "2026-08-22T09:11:55Z",
+   "summary": "12/13 Charlie vs Opponent C",
+   "description": "",
+   "location": "Venue 5 (Field 1 Turf) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-28T19:05:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-28T20:15:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac9i74ojg",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/11",
+   "created": "2026-06-11T18:49:44Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "2026 Copa Rayados East Coast Tournament",
+   "location": "Venue 6",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-29T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-29T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3idpi6orj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/12",
+   "created": "2026-08-19T22:50:54Z",
+   "updated": "2026-08-25T18:12:46Z",
+   "summary": "12/13 Charlie vs  Opponent D",
+   "description": "",
+   "location": "Venue 5 (Field 1 Turf) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-29T11:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-29T12:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac9i74oji",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/13",
+   "created": "2026-06-11T18:49:44Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "2026 Copa Rayados East Coast Tournament",
+   "location": "Venue 6",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-30T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-30T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3idpi6soj6",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/14",
+   "created": "2026-08-19T22:53:36Z",
+   "updated": "2026-09-01T02:12:29Z",
+   "summary": "12/13 Charlie vs Opponent E",
+   "description": "",
+   "location": "Venue 5 (Field 2 Turf) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-30T12:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-08-30T13:55:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o30",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/15",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-01T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-01T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o32",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/16",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-03T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-03T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6sp36",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/17",
+   "created": "2026-06-04T14:16:21Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "OBGC Capital Cup",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-05T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-05T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj0c9p6cp32",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/18",
+   "created": "2026-08-25T01:54:10Z",
+   "updated": "2026-08-25T05:14:05Z",
+   "summary": "12/13 Charlie vs Opponent F",
+   "description": "",
+   "location": "Venue 7 (Field 01) - 7 Venue Rd, Columbia, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-05T16:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-05T17:55:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6sp38",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/19",
+   "created": "2026-06-04T14:16:21Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "OBGC Capital Cup",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-06T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-06T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj0c9p6cp36",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/20",
+   "created": "2026-08-25T01:56:02Z",
+   "updated": "2026-08-25T05:14:05Z",
+   "summary": "12/13 Charlie vs Opponent G",
+   "description": "",
+   "location": "Venue 7 (Field 1) - 7 Venue Rd, Columbia, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-06T11:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-06T12:55:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj0c9p6cp3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/21",
+   "created": "2026-08-25T01:58:30Z",
+   "updated": "2026-09-01T02:12:29Z",
+   "summary": "12/13 Charlie vs Opponent H",
+   "description": "",
+   "location": "Venue 7 (Field 1) - 7 Venue Rd, Columbia, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-06T15:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-06T16:40:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1h74sje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/22",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-08T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-08T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o36",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/23",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-10T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-10T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6opj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/24",
+   "created": "2026-08-11T15:24:01Z",
+   "updated": "2026-08-22T09:11:55Z",
+   "summary": "12/13 Charlie @ Opponent I",
+   "description": "",
+   "location": "Venue 3 - 3 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-13T16:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-13T17:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj2c9h6sq3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/25",
+   "created": "2026-08-31T13:38:27Z",
+   "updated": "2026-09-01T02:12:29Z",
+   "summary": "Charlie Academy Training w/ Coach Parent A",
+   "description": "",
+   "location": "Venue 8",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-14T18:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-14T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o38",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/26",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-15T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-15T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/27",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-17T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-17T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ichl70r3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/28",
+   "created": "2026-08-14T19:37:45Z",
+   "updated": "2026-08-18T18:13:56Z",
+   "summary": "12/13 Charlie vs. Opponent J",
+   "description": "",
+   "location": "Venue 9 - 9 Venue Rd, Harwood, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-19T16:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-19T17:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3icho74pjc",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/29",
+   "created": "2026-08-15T17:17:26Z",
+   "updated": "2026-09-15T22:11:54Z",
+   "summary": "12/13 Charlie vs Opponent K",
+   "description": "",
+   "location": "Venue 9 - 9 Venue Rd, Harwood, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-20T16:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-20T18:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj2c9h6sr34",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/30",
+   "created": "2026-08-31T13:40:12Z",
+   "updated": "2026-09-16T16:11:55Z",
+   "summary": "Charlie Academy Training w/ Coach Parent A",
+   "description": "",
+   "location": "Venue 8",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-21T18:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-21T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ecpk6kr36",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/31",
+   "created": "2026-07-23T22:58:13Z",
+   "updated": "2026-09-22T23:11:56Z",
+   "summary": "U14G Charlie Practice - ZOOM",
+   "location": "Zoom Meeting",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-22T20:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-22T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/32",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-24T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-24T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6opje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/33",
+   "created": "2026-08-11T15:27:13Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie @ Opponent L",
+   "description": "",
+   "location": "Venue 10 - 10 Venue Rd, Palmyra, PA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-26T15:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-26T16:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6oq38",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/34",
+   "created": "2026-08-11T15:29:41Z",
+   "updated": "2026-09-22T23:11:56Z",
+   "summary": "12/13 Charlie @ Opponent M",
+   "description": "",
+   "location": "Venue 11 - 11 Venue Rd, Manheim, PA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-27T12:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-27T13:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/35",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-29T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-09-29T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1o74o3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/36",
+   "created": "2026-06-05T13:35:59Z",
+   "updated": "2026-06-05T16:11:56Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-01T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-01T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6orj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/37",
+   "created": "2026-08-11T15:32:56Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie vs. Opponent N",
+   "description": "",
+   "location": "Venue 12",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-04T15:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-04T16:15:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj2c9h6srje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/38",
+   "created": "2026-08-31T13:41:46Z",
+   "updated": "2026-09-01T02:12:29Z",
+   "summary": "Charlie Academy Training w/ Coach Parent A",
+   "description": "",
+   "location": "Venue 8",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-05T18:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-05T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60o3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/39",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-06T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-06T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60o3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/40",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-08T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-08T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6sp3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/41",
+   "created": "2026-06-04T14:20:38Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "2026 WAGS Tournament",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-10T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-10T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj8e1n6ssj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/42",
+   "created": "2026-09-28T01:14:22Z",
+   "updated": "2026-09-28T02:11:56Z",
+   "summary": "12/13 Charlie vs Opponent O",
+   "description": "",
+   "location": "Venue 5 (Field 7) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-10T13:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-10T14:05:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj8e1n6ssjc",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/43",
+   "created": "2026-09-28T01:16:22Z",
+   "updated": "2026-09-28T02:11:56Z",
+   "summary": "12/13 Charlie vs Opponent P",
+   "description": "",
+   "location": "Venue 5 (Field 16) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-10T15:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-10T16:35:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6spj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/44",
+   "created": "2026-06-04T14:20:38Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "2026 WAGS Tournament",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-11T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-11T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj8e1n6ssje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/45",
+   "created": "2026-09-28T01:18:32Z",
+   "updated": "2026-09-28T02:11:56Z",
+   "summary": "12/13 Charlie vs Opponent Q",
+   "description": "",
+   "location": "Venue 5 (Field 6) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-11T10:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-11T11:35:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj8e1n6ssjg",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/46",
+   "created": "2026-09-28T01:20:32Z",
+   "updated": "2026-09-28T02:11:56Z",
+   "summary": "Championships Game - TBD",
+   "location": "Venue 5 (Field 4) - 5 Venue Rd, Aldie, VA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-11T14:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-11T15:50:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6spj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/47",
+   "created": "2026-06-04T14:20:38Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "2026 WAGS Tournament",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-12T09:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-12T10:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60o3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/48",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-13T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-13T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60o3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/49",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-15T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-15T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6osj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/50",
+   "created": "2026-08-11T15:36:13Z",
+   "updated": "2026-08-18T18:13:56Z",
+   "summary": "12/13 Charlie vs. Opponent R",
+   "description": "",
+   "location": "Venue 9 - 9 Venue Rd, Harwood, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-17T14:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-17T15:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kqj2c9h70o3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/51",
+   "created": "2026-08-31T13:43:06Z",
+   "updated": "2026-09-01T02:12:29Z",
+   "summary": "Charlie Academy Training w/ Coach Parent A",
+   "description": "",
+   "location": "Venue 8",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-19T18:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-19T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60o3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/52",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-20T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-20T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/53",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-22T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-22T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6soje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/54",
+   "created": "2026-08-11T15:38:40Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie @ Opponent S",
+   "description": "",
+   "location": "Venue 13 - 13 Venue Rd, Medford, NJ",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-24T15:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-24T16:45:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6spj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/55",
+   "created": "2026-08-11T15:41:22Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie @ Opponent T",
+   "description": "",
+   "location": "Venue 14 - 14 Venue Rd, Hammonton, NJ",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T12:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-25T13:15:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/56",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-27T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-27T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/57",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-29T19:30:00-04:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-10-29T21:00:00-04:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6sr34",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/58",
+   "created": "2026-08-11T15:43:53Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie vs. Opponent U",
+   "description": "",
+   "location": "Venue 15",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-01T12:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-01T13:45:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oj6",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/59",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-03T19:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-03T21:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/60",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-05T19:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-05T21:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o6sr3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/61",
+   "created": "2026-08-11T15:45:48Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie @ Opponent V",
+   "description": "",
+   "location": "Venue 16 (Turf Field) - 16 Venue Rd, Quakertown, PA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-07T10:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-07T11:15:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o70oje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/62",
+   "created": "2026-08-11T15:47:42Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie @ Opponent W",
+   "description": "",
+   "location": "Venue 17 - 17 Venue Rd, Bryn Athyn, PA",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-08T14:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-08T15:15:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/63",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-10T19:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-10T21:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60ojc",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/64",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-12T19:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-12T21:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6spj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/65",
+   "created": "2026-06-04T14:22:18Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "2026 Bethesda Premier Cup",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-14T09:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-14T10:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq38e1m6spja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/66",
+   "created": "2026-06-04T14:22:18Z",
+   "updated": "2026-06-04T19:11:57Z",
+   "summary": "2026 Bethesda Premier Cup",
+   "location": "TBD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-15T09:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-15T10:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ac1i60oje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/67",
+   "created": "2026-06-09T13:30:10Z",
+   "updated": "2026-06-16T02:12:14Z",
+   "summary": "U14G Charlie Practice",
+   "location": "Venue 2 (Game Field) - 2 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-17T19:30:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-11-17T21:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_6cr30k3cc5smashdclr6arjk5kq3ge1o70s3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/68",
+   "created": "2026-08-11T15:49:57Z",
+   "updated": "2026-08-17T16:14:57Z",
+   "summary": "12/13 Charlie vs. Opponent X",
+   "description": "",
+   "location": "Venue 15",
+   "creator": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-1@example.com",
+    "displayName": "360Player Event calendar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-13T12:00:00-05:00",
+    "timeZone": "UTC"
+   },
+   "end": {
+    "dateTime": "2026-12-13T13:15:00-05:00",
+    "timeZone": "UTC"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  }
+ ]
+}

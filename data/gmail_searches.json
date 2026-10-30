@@ -1,0 +1,12 @@
+{
+ "_note": "Read-only Gmail searches run on 2026-10-07 ~5:25 PM ET via the user-Gmail connector (search_threads only; nothing opened, labeled, sent or changed). Raw result pages are saved in data/gmail/.",
+ "account": "parent.a@example.com (user-Gmail). Team mail forwarded from parent.a.alt@example.com lands here too; a to:/deliveredto: search for that address returned no team mail.",
+ "searches": [
+  {"query": "after:2026/08/01 (score OR final OR won OR win OR loss OR lost OR tied OR recap OR result OR results) (Alpha OR Charlie OR Blue OR Bravo OR Copa OR GameChanger OR TeamSnap OR 360Player OR soccer OR baseball)", "threads": 19, "relevant": 0, "what": "All hits were MaxPreps alerts for Nearby Town HS varsity teams, Polymarket and newsletters. None about Kid A's or Kid B's teams."},
+  {"query": "after:2026/07/15 (Alpha OR Charlie OR Blue OR \"Bravo 11u\" OR GameChanger OR TeamSnap OR 360Player OR \"Copa Rayados\" OR WAGS OR \"Capital Cup\" OR \"Perfect Game\" OR USSSA OR \"Fall Classic\" OR \"Premier Cup\" OR Delta)", "threads": 100, "relevant": 0, "what": "2 pages read (~201 estimated). Almost all are Google Calendar change notifications for Bravo 11u and Delta events (used for the schedule-change log). No scores."},
+  {"query": "after:2026/07/15 -from:calendar-notification@google.com -from:maxpreps-email.com (team names, soccer, baseball, coach, tournament)", "threads": 50, "relevant": 0, "what": "Shopping receipts, USABL tournament marketing, Perfect Game invites, a GameChanger Fan subscription receipt. No scores."},
+  {"query": "after:2026/07/15 (from:gc.com OR from:gamechanger OR from:360player OR from:teamsnap OR from:gotsport OR from:sportsengine OR ... OR to:parent.a.alt@example.com OR deliveredto:parent.a.alt@example.com)", "threads": 3, "relevant": 0, "what": "3 Perfect Game emails (All-State invite, release, roster add for Bravo Academy 11U Blue). No scores."},
+  {"query": "after:2026/08/01 -from:maxpreps/polymarket/yahoo/calendar (goals OR beat OR victory OR shutout OR \"great game\" OR \"game recap\" OR champions OR finalists OR semifinal OR standings OR bracket)", "threads": 30, "relevant": 0, "what": "Newsletters and finance mail only."}
+ ],
+ "resultsFound": 0
+}

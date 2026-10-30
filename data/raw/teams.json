@@ -1,0 +1,1962 @@
+{
+ "summary": "Parent A",
+ "description": "",
+ "updated": "2026-10-07T21:07:35Z",
+ "timeZone": "America/New_York",
+ "accessRole": "reader",
+ "events": [
+  {
+   "id": "_64o3cd9n70o3ab9j6so3cdhi74q30",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/219",
+   "created": "2026-07-28T10:14:42Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Stickwork Session",
+   "description": "",
+   "location": "Venue 31 - 31 Venue Rd, Pasadena, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-03T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-03T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6so3cdhi74rj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/220",
+   "created": "2026-07-28T10:15:11Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Stickwork Session",
+   "description": "",
+   "location": "Venue 31 - 31 Venue Rd, Pasadena, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-10T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-10T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6so3cdhi74sjc",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/221",
+   "created": "2026-08-04T07:02:05Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Stickwork Session",
+   "description": "",
+   "location": "Venue 31 - 31 Venue Rd, Pasadena, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-19T08:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-19T09:15:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gp38",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/222",
+   "created": "2026-08-06T10:47:07Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-24T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-24T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kp38",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/223",
+   "created": "2026-08-06T10:46:18Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-26T17:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-26T19:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6soj2e9o60s3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/224",
+   "created": "2026-08-06T12:00:40Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Bravo parents meeting",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-26T18:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-26T18:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6soj2e9j6gs30",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/225",
+   "created": "2026-08-29T12:20:06Z",
+   "updated": "2026-08-29T21:07:33Z",
+   "summary": "Bravo 11u - Blue vs Opponent O1",
+   "description": "",
+   "location": "Venue 34 - 34 Venue Rd, Laurel, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-30T15:30:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-30T17:30:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6sojae9i64rj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/226",
+   "created": "2026-08-29T12:20:25Z",
+   "updated": "2026-08-29T21:07:33Z",
+   "summary": "Bravo 11u - Blue vs Opponent P1",
+   "description": "",
+   "location": "Venue 34 - 34 Venue Rd, Laurel, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-30T17:30:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-30T19:30:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gp3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/227",
+   "created": "2026-08-06T10:45:46Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-31T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-31T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6soj2e9o64p34",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/228",
+   "created": "2026-08-06T12:01:43Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Parents meeting",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-08-31T18:30:18-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-08-31T19:30:18-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kp3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/229",
+   "created": "2026-09-01T12:24:30Z",
+   "updated": "2026-09-01T17:07:33Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-02T17:00:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-02T19:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6soj2e9j6sqj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/230",
+   "created": "2026-09-03T16:36:40Z",
+   "updated": "2026-09-04T02:07:32Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-05T08:30:38-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-05T11:00:38-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kp3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/231",
+   "created": "2026-08-06T10:46:18Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-09T17:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-09T19:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1k70q3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/232",
+   "created": "2026-07-29T12:46:55Z",
+   "updated": "2026-07-29T18:07:51Z",
+   "summary": "Bravo 11u - Blue - USSSA tournament",
+   "description": "",
+   "location": "Venue 35",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-12T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-13T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spj0c9p70p3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/233",
+   "created": "2026-09-12T09:22:00Z",
+   "updated": "2026-09-12T19:07:32Z",
+   "summary": "Bravo 11u - Blue vs Opponent Q1",
+   "description": "",
+   "location": "Venue 36 - 36 Venue Rd, Ashburn, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-12T15:00:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-12T17:00:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spj0c9p74o3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/234",
+   "created": "2026-09-01T10:09:15Z",
+   "updated": "2026-09-01T17:07:33Z",
+   "summary": "Bravo 11u - Blue vs Opponent R1",
+   "description": "",
+   "location": "Venue 36 - 36 Venue Rd, Ashburn, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-12T17:00:41-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-12T19:00:41-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1k70q3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/235",
+   "created": "2026-07-29T12:46:55Z",
+   "updated": "2026-07-29T18:07:51Z",
+   "summary": "Bravo 11u - Blue - USSSA tournament",
+   "description": "",
+   "location": "Venue 35",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-13T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-14T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cq34",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/236",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-13T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-13T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spjce1n74o3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/237",
+   "created": "2026-09-13T06:09:54Z",
+   "updated": "2026-09-13T14:07:32Z",
+   "summary": "Bravo 11u - Blue vs Opponent S1",
+   "description": "",
+   "location": "Venue 36 - 36 Venue Rd, Ashburn, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-13T10:00:22-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-13T10:00:22-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gp3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/238",
+   "created": "2026-09-13T20:26:06Z",
+   "updated": "2026-09-14T03:07:33Z",
+   "summary": "[CANCELED] Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-14T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-14T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kp3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/239",
+   "created": "2026-08-06T10:46:18Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-16T17:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-16T19:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1m70o3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/240",
+   "created": "2026-09-18T20:44:52Z",
+   "updated": "2026-09-19T03:07:33Z",
+   "summary": "Bravo 11u - Blue vs Opponent T1",
+   "description": "",
+   "location": "Venue 38 - 38 Venue Rd, Bel Air, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-19T12:00:21-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-19T14:00:21-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spj6dhn6cpja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/241",
+   "created": "2026-09-18T20:45:09Z",
+   "updated": "2026-09-19T03:07:33Z",
+   "summary": "Bravo 11u - Blue vs Opponent T1",
+   "description": "",
+   "location": "Venue 38 - 38 Venue Rd, Bel Air, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-19T14:00:21-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-19T16:00:21-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cq36",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/242",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-20T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-20T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gp3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/243",
+   "created": "2026-08-06T10:45:46Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-21T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-21T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kp3g",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/244",
+   "created": "2026-08-06T10:46:18Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-23T17:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-23T19:30:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6sq30d9n6krja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/245",
+   "created": "2026-09-25T21:54:37Z",
+   "updated": "2026-09-26T02:07:35Z",
+   "summary": "Bravo 11u - Blue vs Opponent U1",
+   "description": "",
+   "location": "Venue 39 - 39 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-26T10:00:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-26T11:30:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6sq30d9n6orj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/246",
+   "created": "2026-09-25T09:57:50Z",
+   "updated": "2026-09-25T14:07:33Z",
+   "summary": "Bravo 11u - Blue vs Opponent V1",
+   "description": "",
+   "location": "Venue 39 - 39 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-26T12:00:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-26T13:30:57-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1l6ssj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/247",
+   "created": "2026-07-18T15:40:02Z",
+   "updated": "2026-07-18T22:07:32Z",
+   "summary": "Bravo 11u - Blue - Hcyp brawl in the fall",
+   "description": "",
+   "location": "Venue 39 - 39 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-27T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-28T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6spj8c1p70o38",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/248",
+   "created": "2026-09-25T08:09:46Z",
+   "updated": "2026-09-25T14:07:33Z",
+   "summary": "Delta 2031 Green vs Opponent W1",
+   "description": "",
+   "location": "Venue 3 - 3 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-27T09:00:12-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-27T09:45:12-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6sq36chj6ko30",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/249",
+   "created": "2026-09-27T06:32:58Z",
+   "updated": "2026-09-27T12:07:32Z",
+   "summary": "[CANCELED] Bravo 11u - Blue vs Opponent X1",
+   "description": "",
+   "location": "Venue 39 - 39 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-27T09:00:24-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-27T09:00:24-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6spj8c1p74sj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/250",
+   "created": "2026-09-07T20:25:28Z",
+   "updated": "2026-09-08T04:07:32Z",
+   "summary": "Delta 2031 Green vs Opponent Y1",
+   "description": "",
+   "location": "Venue 3 - 3 Venue Rd, Ellicott City, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-27T11:00:05-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-27T11:45:05-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gp3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/251",
+   "created": "2026-08-06T10:45:46Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-28T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-28T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spjed1k6opj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/252",
+   "created": "2026-09-14T09:18:22Z",
+   "updated": "2026-09-14T17:07:34Z",
+   "summary": "Bravo 11u - Blue at Opponent Z1",
+   "description": "",
+   "location": "Venue 40 - 40 Venue Rd, Edgewater, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-30T18:30:42-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-09-30T20:30:42-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cq3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/253",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-04T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-04T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3cc9i6op34",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/254",
+   "created": "2026-09-14T09:14:37Z",
+   "updated": "2026-09-14T17:07:34Z",
+   "summary": "Bravo 11u - Blue vs Opponent A2",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-04T14:00:12-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-04T14:00:12-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spjed1k6kp3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/255",
+   "created": "2026-09-14T09:14:49Z",
+   "updated": "2026-09-14T17:07:34Z",
+   "summary": "Bravo 11u - Blue vs Opponent A2",
+   "description": "",
+   "location": "Venue 33 - 33 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-04T16:00:12-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-04T16:00:12-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gpj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/256",
+   "created": "2026-08-06T10:45:46Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-05T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-05T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kpj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/257",
+   "created": "2026-10-05T15:58:34Z",
+   "updated": "2026-10-05T22:07:32Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 41 - 41 Venue Rd, Nearby Town, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-07T17:45:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-07T19:45:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6soj4c1g60ojc",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/258",
+   "created": "2026-09-28T15:21:39Z",
+   "updated": "2026-09-28T23:07:32Z",
+   "summary": "[CANCELED] Bravo 11u - Blue - Potential tournament in Salisbury",
+   "description": "",
+   "location": "Tbd",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-10T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-11T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6soj4c1g60oje",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/259",
+   "created": "2026-09-28T15:21:39Z",
+   "updated": "2026-09-28T23:07:32Z",
+   "summary": "[CANCELED] Bravo 11u - Blue - Potential tournament in Salisbury",
+   "description": "",
+   "location": "Tbd",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-11T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-12T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cq3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/260",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-11T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-11T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gpj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/261",
+   "created": "2026-08-06T10:45:46Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-12T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-12T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6sojechh74pj2",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/262",
+   "created": "2026-10-07T06:54:47Z",
+   "updated": "2026-10-07T15:07:34Z",
+   "summary": "Bravo 11u - Blue at Opponent B2",
+   "description": "",
+   "location": "Venue 42 - 42 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-14T18:30:45-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-14T20:30:45-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1m6oo3c",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/263",
+   "created": "2026-07-18T15:42:41Z",
+   "updated": "2026-07-18T22:07:32Z",
+   "summary": "Bravo 11u - Blue - Perfect Game tournament",
+   "description": "",
+   "location": "Venue 43 - 43 Venue Rd, Quinton, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-17T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-18T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1m6oo3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/264",
+   "created": "2026-07-18T15:42:41Z",
+   "updated": "2026-07-18T22:07:32Z",
+   "summary": "Bravo 11u - Blue - Perfect Game tournament",
+   "description": "",
+   "location": "Venue 43 - 43 Venue Rd, Quinton, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-18T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-19T00:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cq3e",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/265",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-18T09:30:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-18T11:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6gpj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/266",
+   "created": "2026-08-06T10:45:46Z",
+   "updated": "2026-08-06T16:07:34Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 32 - 32 Venue Rd, Gambrills, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-19T17:30:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-19T19:00:31-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so3echp6kpj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/267",
+   "created": "2026-10-05T15:58:34Z",
+   "updated": "2026-10-05T22:07:32Z",
+   "summary": "Bravo 11u - Blue - Practice",
+   "description": "",
+   "location": "Venue 41 - 41 Venue Rd, Nearby Town, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-21T17:45:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-21T19:45:43-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sp3ac9l70rj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/268",
+   "created": "2026-08-25T14:31:53Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - National Fall Lax Fest",
+   "description": "",
+   "location": "Venue 44 - 44 Venue Rd, Edgewood, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-25T09:00:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sq3gcpp64o3a",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/269",
+   "created": "2026-10-07T09:02:02Z",
+   "updated": "2026-10-07T15:07:34Z",
+   "summary": "Delta 2031 Green at Opponent C2",
+   "description": "",
+   "location": "Venue 45 - 45 Venue Rd, Parkton, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T09:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-25T10:45:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sq3gcpp64pja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/270",
+   "created": "2026-10-07T09:03:02Z",
+   "updated": "2026-10-07T15:07:34Z",
+   "summary": "Delta 2031 Green vs Opponent D2",
+   "description": "",
+   "location": "Venue 45 - 45 Venue Rd, Parkton, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T11:05:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-25T11:50:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6so34d1m74oj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/271",
+   "created": "2026-09-14T11:44:04Z",
+   "updated": "2026-09-14T17:07:34Z",
+   "summary": "Bravo 11u - Blue at Opponent E2",
+   "description": "",
+   "location": "Venue 46 - 46 Venue Rd, Alexandria, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T12:00:24-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-25T12:00:24-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sq3gcpp64s30",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/272",
+   "created": "2026-10-07T09:04:41Z",
+   "updated": "2026-10-07T15:07:34Z",
+   "summary": "Delta 2031 Green at Opponent F2",
+   "description": "",
+   "location": "Venue 45 - 45 Venue Rd, Parkton, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T12:25:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-25T13:10:00-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3ec1o60sjgb9j6spjed9i6srja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/273",
+   "created": "2026-09-14T11:44:24Z",
+   "updated": "2026-09-14T17:07:34Z",
+   "summary": "Bravo 11u - Blue at Opponent G2",
+   "description": "",
+   "location": "Venue 46 - 46 Venue Rd, Alexandria, VA",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-10-25T14:00:24-04:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-10-25T14:00:24-04:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cq3i",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/274",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-01T09:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-01T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sq3gcpp6gsj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/275",
+   "created": "2026-10-07T12:47:33Z",
+   "updated": "2026-10-07T21:07:33Z",
+   "summary": "Delta 2031 Green - Paintball Team Event",
+   "description": "",
+   "location": "Venue 47 - 47 Venue Rd, Curtis Bay, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-07T11:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-07T14:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sp3ac9l74pj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/276",
+   "created": "2026-10-05T15:27:33Z",
+   "updated": "2026-10-05T22:07:32Z",
+   "summary": "Delta 2031 Green - Navy Rivalry",
+   "description": "",
+   "location": "Venue 48 - 48 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-08T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-08T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cqj0",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/277",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-08T09:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-08T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sp3ac9m68sj8",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/278",
+   "created": "2026-08-25T14:35:17Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Mid Atlantic Showcase (both days)",
+   "description": "",
+   "location": "Venue 49 - 49 Venue Rd, Timonium, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-14T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-14T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sp3ac9m68sja",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/279",
+   "created": "2026-08-25T14:35:17Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Mid Atlantic Showcase (both days)",
+   "description": "",
+   "location": "Venue 49 - 49 Venue Rd, Timonium, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-15T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-15T09:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sojadpg6cqj4",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/280",
+   "created": "2026-08-12T06:30:01Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Fall Team practice",
+   "description": "",
+   "location": "Venue 37 - 37 Venue Rd, Severn, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-22T09:30:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-11-22T11:00:00-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  },
+  {
+   "id": "_64o3cd9n70o3ab9j6sp32d1o6gr36",
+   "status": "confirmed",
+   "htmlLink": "https://calendar.example.com/event/281",
+   "created": "2026-08-20T10:18:10Z",
+   "updated": "2026-08-26T06:07:35Z",
+   "summary": "Delta 2031 Green - Holiday Event",
+   "description": "",
+   "location": "Venue 50 - 50 Venue Rd, Hometown, MD",
+   "creator": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "organizer": {
+    "email": "calendar-4@example.com",
+    "displayName": "Parent A",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-12-05T17:00:59-05:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-12-05T17:00:59-05:00",
+    "timeZone": "America/New_York"
+   },
+   "eventType": "DEFAULT",
+   "conferenceData": {},
+   "useDefaultReminders": true
+  }
+ ]
+}
